@@ -8,12 +8,16 @@
     <h1>What is Mental Health?</h1>
     
     <p>
-      What do you first think of when hearing mental health?
+      What do you think when you hear "Mental Health"?
     </p>
     
     <p>
-      Many people associate mental health to the thoughts of the minf. However mental health involves our   psychological
+      Our psychological, emotional and social well-being falls under the category of mental health. It determines how we think, feel, and behave. It also helps to decide how we cope with stress, interact with others, and make positive choices. While the phrases are sometimes used interchangeably, mental health and mental illness are different from one another . A individual may experience mental health problems but  may not be diagnosed with an illness.
     </p>
     
   </body>
+   <body>
+    <h2> Mental Health and Social Media</h2>
+  
+  
 </html>
