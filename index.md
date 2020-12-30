@@ -27,6 +27,4 @@
     <p>
       emotional and social well-being falls under the category of mental health.
     </p>
-    
-  
 </html>
