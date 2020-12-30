@@ -1,4 +1,4 @@
-## Mental Health
+<h2> Mental Health
 
 You can use the [editor on GitHub](https://github.com/RToqeer/facebookdata.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
