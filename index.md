@@ -25,6 +25,8 @@
     <h1>Mental Health and Social Media</h1>
     
     <p>
-      emotional and social well-being falls under the category of mental health.
-    </p>
+      "Conversely, a number of studies emphasize the potentially negative consequences of sites like Facebook. They document the incidence of anxiety, depression, ADHD, eating disorders and addictions among users. Some of the major findings include: Depression, ADHD, Eating Disorder, Addiction
+      </p>
+    
+   </body>
 </html>
