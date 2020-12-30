@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>  
   <body>
-    <h1>Hi there!</h1>
+    <h1>What is Mental Health?</h1>
     
     <p>
-      I'm your cool new webpage. Made with <a href="https://glitch.com">Glitch</a>!
+      What do you first think of when hearing mental health? Many people associate mental health to the thoughts of the minf. However mental health involves our   psychological
     </p>
     
   </body>
