@@ -1,5 +1,4 @@
 ## Mental Health 
-hr {width: 300px;margin-left: auto;margin-right: auto;height: 100px;background-color:#666;opcaity: 0.5;}
 
 You can use the [editor on GitHub](https://github.com/RToqeer/officialfacbookdata/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
