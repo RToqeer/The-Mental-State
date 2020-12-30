@@ -8,7 +8,11 @@
     <h1>What is Mental Health?</h1>
     
     <p>
-      What do you first think of when hearing mental health? Many people associate mental health to the thoughts of the minf. However mental health involves our   psychological
+      What do you first think of when hearing mental health?
+    </p>
+    
+    <p>
+      Many people associate mental health to the thoughts of the minf. However mental health involves our   psychological
     </p>
     
   </body>
