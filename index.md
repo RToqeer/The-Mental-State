@@ -96,7 +96,7 @@
     
     <ol>
     <li>Number of interactions within a group over time (Bridging Social Capital)</li>
-    <img src = "Image 1.png"
+    <img src = "Image 1.png">
     <li>Number of friend tags within a group over time (Bonding Social Capital)</li>
 
 
