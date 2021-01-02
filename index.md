@@ -54,7 +54,11 @@
     <ol>
      <li>The number of reactions, comments, and posts inside groups were counted and analyzed to see how they changed over time.</li>
      
-    <li> We gathered the names of the groups the person was in at one point of time by extracting all the groups from your_group_membership_activity.json. This file indicates when a person joined or left a certain Facebook group. The group names from this indicated to us the types of the groups the person has been involved in (either currently or at one point in time).</li>
+    <li> We gathered the names of the groups the person was in at one point of time by extracting all the groups from your_group_membership_activity.json. This file
+    
+    indicates when a person joined or left a certain Facebook group. The group names from this indicated to us the types of the groups the person has been involved in 
+    
+    (either currently or at one point in time).</li>
     
     <li>Afterwards, we extracted all the posts and comments made by the user within groups from the your_posts_and_comments_in_groups.json file. We aggregated this data by month and counted how many posts and comments a person had in any group at a certain month.</li>
     
