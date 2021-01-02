@@ -34,5 +34,9 @@
 
       </p>
       
+      <p>
+        <b>Why Not Messenger? </b> Messenger is not the best indicator of friend interactions. Instant messages have lots of different purposes that may not reflect friendship interactions, such as formal club group chats, organizing events. Regular chats between friends are just a small part of how Messenger is used. 
+
+      </p>
   </body>  
 </html>
