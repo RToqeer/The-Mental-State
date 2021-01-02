@@ -122,4 +122,22 @@
      <ul> Only works if someone joins the group</ul>
      </ol>
   </body>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>  
+  <body>
+    <u><h1>Next Steps</h1></u>
+  
+    <p>
+    <b>For future development, we can do the following:</b>
+    </p>
+    
+    <ul>
+     <li>TCategorizing the groups into subsets of groups (example: dog groups, meme groups).</li>
+     <li>Determining the polarity of the groups (positive, negative, neutral), then doing text sentimental analysis on the posts & comments to see how the person’s sentiment within the groups changes over time.</li>
+     <li>Combining this insight with other data analytics to create a more holistic overview of someone’s mental state</li>
+     </ul>
+  </body>
 </html>
