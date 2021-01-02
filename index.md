@@ -79,6 +79,12 @@
      
      <li>The overall trend of behavior was modeled using linear regression.</li>
      </ol>
+     <b>Data Used:</b>
+     <ul>
+     <li>groups > your_group_membership_activity</li>
+     <li>groups > your_groups</li>
+     <li>groups > your_posts_and_comments_in_groups</li>
+     </ul>
   </body>
   <head>
     <meta charset="utf-8">
@@ -86,11 +92,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>  
   <body>
-    <u><h1>Project Scope</h1></u>
+    <u><h1>Results</h1></u>
     
-    <p>
-      In this project, we focused on analyzing users’ general mental state from their social interactions, particularly in groups (communities).
-    </p>
+    <ol>
+    <li>Number of interactions within a group over time (Bridging Social Capital)</li>
+    
+    <li>Number of friend tags within a group over time (Bonding Social Capital)</li>
+
+
     
   </body>
 </html>
