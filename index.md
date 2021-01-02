@@ -107,9 +107,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>  
   <body>
-    <u><h1>Results</h1></u>
-    
- 
+    <u><h1>End Product: Data Visualization</h1></u>
+  
     <p>
     <b> Disclaimer </b>
     </p>
@@ -117,7 +116,7 @@
     <ol>
      <li>This is just ONE way to predict user’s mental state and how they change over time.</li>
      <li>It is best to combine this insight with other data analysis for a better overview.</li>
-     <li>Limitations exists:
+     <li>Limitations exists:</li>
      <ul> Only works for English data</ul>
      <ul> Only works if someone joins the group</ul>
      </ol>
