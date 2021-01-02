@@ -56,15 +56,37 @@
     </p>
     
     <p>
-    
      We gathered the names of the groups the person was in at one point of time by extracting all the groups from your_group_membership_activity.json. This file indicates when a person joined or left a certain Facebook group. The group names from this indicated to us the types of the groups the person has been involved in (either currently or at one point in time).
-
     </p>
     
     <p>
     Afterwards, we extracted all the posts and comments made by the user within groups from the your_posts_and_comments_in_groups.json file. We aggregated this data by month and counted how many posts and comments a person had in any group at a certain month.
-   
     </p>
+    
+    <p>
+    Furthermore, we looked into post reactions (like, love, haha, angry, sad, etc.) in groups. The posts_and_comments.json files reactions for all posts (both inside and outside groups), so we searched for the keyword “in” in the title to see if that reaction was in a certain group or not. We then aggregated this data by month and counted how many reactions a person had in a group at a certain month.
+    </p>
+    
+    <p>
+    The number of comments, posts, and reactions per month were then added and plotted using linear regression to capture the overall trend of that user’s behavior.
+    </p>
+    
+    <p>
+      <b>Second plot - Friend Tags Within a Group</b>
+    </p>
+    
+    <p>
+    We wanted to see how the number the user tagged a friend in a comment on a post in a group changed over time. Therefore we arsed through all the comments to look for names that are in the user’s friends list. If a friend name pops up in a comment, then that comment is counted as having a friend tag in that comment.
+    </p>
+    
+    <p>
+     We then aggregated the number of friend tags by month and counted how many friend tags did the user do per month.
+    </p>
+    
+    <p>
+      The overall trend of behavior was modeled using linear regression
+    </p>
+ 
   
   </body>
 </html>
