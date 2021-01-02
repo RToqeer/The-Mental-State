@@ -51,17 +51,11 @@
       <b>First plot - Reaction, Comments, Posts In Groups</b>
     </p>
     
-    <ul>
+    <ol>
      <li>The number of reactions, comments, and posts inside groups were counted and analyzed to see how they changed over time.</li>
     <li> We gathered the names of the groups the person was in at one point of time by extracting all the groups from your_group_membership_activity.json. This file indicates when a person joined or left a certain Facebook group. The group names from this indicated to us the types of the groups the person has been involved in (either currently or at one point in time).</li>
-    </p>
-    
-    <p>
-    Afterwards, we extracted all the posts and comments made by the user within groups from the your_posts_and_comments_in_groups.json file. We aggregated this data by month and counted how many posts and comments a person had in any group at a certain month.
-    </p>
-    
-    <p>
-    Furthermore, we looked into post reactions (like, love, haha, angry, sad, etc.) in groups. The posts_and_comments.json files reactions for all posts (both inside and outside groups), so we searched for the keyword “in” in the title to see if that reaction was in a certain group or not. We then aggregated this data by month and counted how many reactions a person had in a group at a certain month.
+    <li>Afterwards, we extracted all the posts and comments made by the user within groups from the your_posts_and_comments_in_groups.json file. We aggregated this data by month and counted how many posts and comments a person had in any group at a certain month.</li>
+    <li>Furthermore, we looked into post reactions (like, love, haha, angry, sad, etc.) in groups. The posts_and_comments.json files reactions for all posts (both inside and outside groups), so we searched for the keyword “in” in the title to see if that reaction was in a certain group or not. We then aggregated this data by month and counted how many reactions a person had in a group at a certain month.</li>
     </p>
     
     <p>
