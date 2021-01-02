@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>  
   <body>
-    <h1>Project Scope</h1>
+    <u><h1>Project Scope</h1></u>
     
     <p>
       In this project, we focused on analyzing users’ general mental state from their social interactions, particularly in groups (communities).
