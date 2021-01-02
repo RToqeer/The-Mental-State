@@ -135,7 +135,7 @@
     </p>
     
     <ul>
-     <li>TCategorizing the groups into subsets of groups (example: dog groups, meme groups).</li>
+     <li>Categorizing the groups into subsets of groups (example: dog groups, meme groups).</li>
      <li>Determining the polarity of the groups (positive, negative, neutral), then doing text sentimental analysis on the posts & comments to see how the person’s sentiment within the groups changes over time.</li>
      <li>Combining this insight with other data analytics to create a more holistic overview of someone’s mental state</li>
      </ul>
