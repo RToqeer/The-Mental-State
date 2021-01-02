@@ -100,6 +100,7 @@
     <p>Red line = Regression Line = Trend over time</p>
     <li>Number of friend tags within a group over time (Bonding Social Capital)</li>
     <img src = "Image 2.png"> 
+    </ol>
   </body>
   <head>
     <meta charset="utf-8">
