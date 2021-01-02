@@ -18,7 +18,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>  
   <body>
-    <h1>Background: Why We Do What We Do</h1>
+    <u><h1>Background: Why We Do What We Do</h1></u>
     
     <p>
      Mental state can be predicted from social media data by analyzing at the user’s behavior and how it changes over time. According to a study1, whether internet interaction predicts changes in users’ well-being depends on how the users use it, such as the sites they visit, and who they interact with.
