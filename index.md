@@ -61,7 +61,7 @@
     <li>Furthermore, we looked into post reactions (like, love, haha, angry, sad, etc.) in groups. The posts_and_comments.json files reactions for all posts (both inside and outside groups), so we searched for the keyword “in” in the title to see if that reaction was in a certain group or not. We then aggregated this data by month and counted how many reactions a person had in a group at a certain month.</li>
     
     <li>The number of comments, posts, and reactions per month were then added and plotted using linear regression to capture the overall trend of that user’s behavior.</li>
- 
+    </ol>
     <p>
       <b>Second plot - Friend Tags Within a Group</b>
     </p>
@@ -74,6 +74,7 @@
      <li> We then aggregated the number of friend tags by month and counted how many friend tags did the user do per month.</li>
      
      <li>The overall trend of behavior was modeled using linear regression.</li>
+     </ol>
   </body>
   <head>
     <meta charset="utf-8">
