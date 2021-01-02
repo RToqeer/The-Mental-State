@@ -97,9 +97,29 @@
     <ol>
     <li>Number of interactions within a group over time (Bridging Social Capital)</li>
     <img src = "Image 1.png">
+    <p>Red line = Regression Line = Trend over time</p>
     <li>Number of friend tags within a group over time (Bonding Social Capital)</li>
-
-
+    <img src = "Image 2.png"> 
+  </body>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>  
+  <body>
+    <u><h1>Results</h1></u>
     
+ 
+    <p>
+    <b> Disclaimer </b>
+    </p>
+    
+    <ol>
+     <li>This is just ONE way to predict user’s mental state and how they change over time.</li>
+     <li>It is best to combine this insight with other data analysis for a better overview.</li>
+     <li>Limitations exists:
+     <ul> Only works for English data</ul>
+     <ul> Only works if someone joins the group</ul>
+     </ol>
   </body>
 </html>
