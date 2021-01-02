@@ -39,4 +39,32 @@
 
       </p>
   </body>  
+   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>  
+  <body>
+    <u><h1>Methods</h1></u>
+    
+    <p>
+      <b>First plot - Reaction, Comments, Posts In Groups</b>
+    </p>
+    
+    <p>
+      The number of reactions, comments, and posts inside groups were counted and analyzed to see how they changed over time.
+    </p>
+    
+    <p>
+    
+     We gathered the names of the groups the person was in at one point of time by extracting all the groups from your_group_membership_activity.json. This file indicates when a person joined or left a certain Facebook group. The group names from this indicated to us the types of the groups the person has been involved in (either currently or at one point in time).
+
+    </p>
+    
+    <p>
+    Afterwards, we extracted all the posts and comments made by the user within groups from the your_posts_and_comments_in_groups.json file. We aggregated this data by month and counted how many posts and comments a person had in any group at a certain month.
+   
+    </p>
+  
+  </body>
 </html>
