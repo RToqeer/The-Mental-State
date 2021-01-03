@@ -96,10 +96,12 @@
     
     <ol>
     <li>Number of interactions within a group over time (Bridging Social Capital)</li>
-    <img src = "Image 1.png">
+    <img src = "Final Image 1.png">
+    <img src = "Final Image 2.png">
     <p>Red line = Regression Line = Trend over time</p>
     <li>Number of friend tags within a group over time (Bonding Social Capital)</li>
-    <img src = "Image 2.png"> 
+    <img src = "Final Image 3.png">
+    <img src = "Final Image 4.png">
     </ol>
   </body>
   <body>
