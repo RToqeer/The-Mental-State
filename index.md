@@ -98,7 +98,7 @@
     <li>Number of interactions within a group over time (Bridging Social Capital)</li>
     <img src = "Final Image 1.png">
     <img src = "Final Image 2.png">
-    <p>Red line = Regression Line = Trend over time</p>
+    <p><b>Red line = Regression Line = Trend over time</b></p>
     <li>Number of friend tags within a group over time (Bonding Social Capital)</li>
     <img src = "Final Image 3.png">
     <img src = "Final Image 4.png">
@@ -113,8 +113,12 @@
      <li>This is just ONE way to predict user’s mental state and how they change over time.</li>
      <li>It is best to combine this insight with other data analysis for a better overview.</li>
      <li>Limitations exists:</li>
+     <ul>Assumes person does actively engage in online communities</ul>
      <ul> Only works for English data</ul>
      <ul> Only works if someone joins the group</ul>
+     <li>Things we wish we had:</li>
+     <ul>A baseline to compare what is normal or is expected for a change in behavior.</ul>
+     <ul>More data to determine what is normal - see if there are general trends for the majority of FB users - if there is uniform change in number of group interactions in a certain month, might be a confounding factor like FB had an update, groups crashed, FB data breach, controversy, etc.</ul>
      </ol>
   </body>
   <head>
@@ -133,6 +137,8 @@
      <li>Categorizing the groups into subsets of groups (example: dog groups, meme groups).</li>
      <li>Determining the polarity of the groups (positive, negative, neutral), then doing text sentimental analysis on the posts & comments to see how the person’s sentiment within the groups changes over time.</li>
      <li>Combining this insight with other data analytics to create a more holistic overview of someone’s mental state</li>
+     <li>Find a way to see how much time the user spends on Facebook daily, so we can see if the amount of time that person spends in Facebook groups (in communities) changes relative to his Facebook usage.</li>
+
      </ul>
   </body>
 </html>
