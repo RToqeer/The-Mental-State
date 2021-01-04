@@ -1,22 +1,26 @@
 # The-Mental-State
   The website disccuses several aspects of our projects. Topics include:
-   Project Scope
-   Background
-   Data/Files Used
-   Methods
-   Threshold
-   Results
-   Discussion
-   Next Steps
+   ## Project Scope
+   ## Background
+   ## Data/Files Used
+   ## Methods
+   ## Threshold
+   ## Results
+   ## Discussion
+   ## Next Steps
+   
      The HTML code for the website can be found in the index.md
      There are several images uploaded, however the images used for the data are 
-   Official Image 1
-   Official Image 2
-   Final Image 5
-   Final Image 6
-   Final Image 7
+     
+   ## Official Image 1
+   ## Official Image 2
+   ## Final Image 5
+   ## Final Image 6
+   ## Final Image 7
+   
      There is an embeded theme within the site, and can be found in _config.yml
-   Jekyll-theme-cayman
+     
+   ## Jekyll-theme-cayman
   
 ## THE CODE FOR THE IMAGES AND GRAPHS
 
