@@ -12,6 +12,7 @@
     </p>
     
   </body>
+  
    <head>
     <meta charset="utf-7">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -37,7 +38,8 @@
       <p>
         <b>Why Not Messenger? </b> Messenger is not the best indicator of friend interactions. The Facebook instant messaging platform is used for many different purposes that may not reflect actual friendship interactions. For instance, messenger is often used to expand one’s network, to organize events, or to even pass study notes for class. Regular chats between friends are just a small part of how Messenger is used. Given a certain conversation with a certain Facebook friend, it is not easy to determine if that Facebook connection is a true close friend or just an acquaintance or formal contact. On the other hand, a Facebook user would only tag his close friends in posts in a group. Thus analyzing a person’s Facebook tags in a group really does reveal his interactions with one’s true close friends on the platform.
       </p>
-  </body>  
+  </body>
+  
    <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -52,7 +54,9 @@
       <li>groups > your_posts_and_comments_in_groups.json</li>
       <li>likes_and_comments > posts_and_comments.json</li>
       <li>friends > friends.json</li>
+     </ul>
   </body>
+  
    <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -91,7 +95,9 @@
      
      <li>We used linear regression to model the overall trend of the behavior.</li>
      </ol>
+     
   </body>
+  
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -125,6 +131,7 @@
      <p> <b> ** Kyle’s and sample data’s plot with thresholds * *</b></p>
         <p>In Kyle’s and Ethi’s data, utilizing a 20% threshold allows us to more accurately capture the change in the user’s behavior.</p>
   </body>
+  
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -148,6 +155,7 @@
    
     </ol>
   </body>
+  
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -162,11 +170,13 @@
      <p>There are many shortcomings of this study, and these analyses are by no means complete. More time would allow us to improve how we quantify one’s changing behavior within communities over time and more data would allow us to have baseline to see how one’s changing behavior in these communities compare to the average Facebook user.</p>
 
   </body>
+  
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>  
+  
   <body>
     <u><h1>Next Steps</h1></u>
   
