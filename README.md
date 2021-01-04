@@ -29,9 +29,9 @@
    folder.
    
  ## Extracting Group Names And Number Of Reactions, Comments, And Posts
-    The code first extracts the group names. To do this, the code searches for the first occurrence of the string ” in “. The group name is found by extracting the rest 
-    of the string following the first occurrence of “ in ” and excluding the last period. The likes and reactions are found by using regular expressions to see if a   
-    group name existed in the title. The comments and posts are found by searching for if the variable group exists in the data set.
+   The code first extracts the group names. To do this, the code searches for the first occurrence of the string ” in “. The group name is found by extracting the rest 
+   of the string following the first occurrence of “ in ” and excluding the last period. The likes and reactions are found by using regular expressions to see if a   
+   group name existed in the title. The comments and posts are found by searching for if the variable group exists in the data set.
     
  ## Plotting Results
   Once the code has these comments, posts, and reactions and their respective timestamps, the code counts the number of these per month. With the count of these group 
