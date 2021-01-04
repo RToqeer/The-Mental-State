@@ -29,9 +29,9 @@
    folder.
    
  ## Extracting Group Names And Number Of Reactions, Comments, And Posts
-   The code first extracts the group names. To do this, the code searches for the first occurrence of the string ” in “. The group name is found by extracting the rest 
-   of the string following the first occurrence of “ in ” and excluding the last period. The likes and reactions are found by using regular expressions to see if a   
-   group name existed in the title. The comments and posts are found by searching for if the variable group exists in the data set.
+   The code first extracts the group names. To do this, the code searches for the first occurrence of the string ” in “.The group name is found by extracting the rest 
+   of the string following the first occurrence of “ in ” and excluding the last period. The likes and reactions are found by using regular expressions to see if a group    name existed in the title. The comments and posts are found by searching for if the variable group exists in the data set.   
+ 
     
  ## Plotting Results
   Once the code has these comments, posts, and reactions and their respective timestamps, the code counts the number of these per month. With the count of these group 
@@ -43,11 +43,8 @@
   occurring after this first date. The codeplots the number of friend tags against month on a line graph. It adds a regression line to help capture the general trend.
 
 ## Group Name Sentiment Pie Chart 
-  The pie chart for group membership activities represents the proportion of positive, negative and neutral groups that the individual is a member of. The TextBlob   
-  library is used to perform Sentiment Analysis of Group Names and get the polarities of each group name. The groups are further segregated into positive, negative and 
-  neutral groups if the polarity is greater than 0, lesser than 0 and equal to 0 respectively. It is seen that the number of neutral groups is more as compared to the 
-  positive and negative groups. This is because sentiment analysis requires large amounts of text data and the short names of groups is not enough. Thus, this analysis 
-  is not included in the final project.
+The pie chart for group membership activities represents the proportion of positive, negative and neutral groups that the individual is a member of.The TextBlob library is used to perform Sentiment Analysis of Group Names and get the polarities of each group name. The groups are further segregated into positive, negative and neutral groups if the polarity is greater than 0, lesser than 0 and equal to 0 respectively. It is seen that the number of neutral groups is more as compared to the positive and negative groups. This is because sentiment analysis requires large amounts of text data and the short names of groups is not enough. Thus, this analysis is not included in the final project.
+  
   
 
 
